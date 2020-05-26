@@ -1,0 +1,1 @@
+Solutions to exercises from the Following along the Structure and interpretation of computer programs 2nd edition.
